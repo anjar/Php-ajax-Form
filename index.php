@@ -16,7 +16,7 @@ $message = $DB->getData(array(
 <!DOCTYPE html>
 <html>
 <head>
-	<title>GUEST BOOK</title>
+	<title>GUEST BOOK With AJAX and Twitter Bootsrap</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- Bootstrap -->
 	<link href="<?=CSS_PATH?>bootstrap.min.css" rel="stylesheet" media="screen">

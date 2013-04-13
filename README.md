@@ -10,13 +10,13 @@ Contact-Form-Ajax
 		to your base url <br>
 		and configure your database connection at var $config variable section <br>
 		<pre>
-			var $config = array(
-				'host' 		=> 'localhost',
-				'db'		=> 'risiko',
-				'login'		=> 'root',
-				'password'	=> '',
-				'port'		=> 3306
-			);
+		var $config = array(
+			'host' 		=> 'localhost',
+			'db'		=> 'contact',
+			'login'		=> 'root',
+			'password'	=> '',
+			'port'		=> 3306
+		);
 		</pre>
 	</li>
 	<li>
