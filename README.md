@@ -9,6 +9,15 @@ Contact-Form-Ajax
 		<pre>define('BASE_URL', 'http://localhost/contact-form/'); </pre>
 		to your base url <br>
 		and configure your database connection at var $config variable section <br>
+		<pre>
+			var $config = array(
+				'host' 		=> 'localhost',
+				'db'		=> 'risiko',
+				'login'		=> 'root',
+				'password'	=> '',
+				'port'		=> 3306
+			);
+		</pre>
 	</li>
 	<li>
 		Create database / use existing database and then import your database with schema.sql file to your database
