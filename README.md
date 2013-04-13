@@ -1,6 +1,6 @@
 Contact-Form-Ajax
 =================
-<h2> Installation <?h2>
+<h2> Installation </h2>
 <ul>
 	<li>Extract File</li>
 	<li>Put your folder on your webhost e.g xampp/htdocs</li>
