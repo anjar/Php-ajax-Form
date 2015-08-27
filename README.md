@@ -1,4 +1,4 @@
-Contact-Form-Ajax
+PHP-Ajax-Form
 =================
 <h2> Installation </h2>
 <ul>
